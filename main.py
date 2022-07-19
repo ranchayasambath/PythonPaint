@@ -1,4 +1,4 @@
-from utils import *
+from utils import*
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Drawing Program")
 
